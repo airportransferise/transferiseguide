@@ -1,0 +1,28 @@
+---
+layout: layout.njk
+pagination:
+  data: cities
+  size: 1
+  alias: city
+permalink: "/{{ city.citySlug }}/"
+title: "{{ city.cityName }} Airport Transfer Guide"
+description: "Airport transfer routes and travel information for {{ city.cityName }}."
+---
+
+<h1>{{ city.cityName }} Airport Transfer Guide</h1>
+
+<p>
+Browse airport transfer routes by district and area.
+</p>
+
+<ul>
+{% for r in routes %}
+  {% if r.citySlug == city.citySlug %}
+    <li>
+      <a href="/{{ r.citySlug }}/{{ r.airportSlug }}/{{ r.districtSlug }}/{{ r.areaSlug }}/">
+        {{ r.airportName }} → {{ r.districtName }} {{ r.areaName }}
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>

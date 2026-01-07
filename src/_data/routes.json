@@ -1,0 +1,1622 @@
+[
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Muratpasa",
+    "districtSlug": "muratpasa",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Muratpasa",
+    "districtSlug": "muratpasa",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Muratpasa",
+    "districtSlug": "muratpasa",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Muratpasa",
+    "districtSlug": "muratpasa",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Muratpasa",
+    "districtSlug": "muratpasa",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Muratpasa",
+    "districtSlug": "muratpasa",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Konyaalti",
+    "districtSlug": "konyaalti",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Konyaalti",
+    "districtSlug": "konyaalti",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Konyaalti",
+    "districtSlug": "konyaalti",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Konyaalti",
+    "districtSlug": "konyaalti",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Konyaalti",
+    "districtSlug": "konyaalti",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Konyaalti",
+    "districtSlug": "konyaalti",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Kepez",
+    "districtSlug": "kepez",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Kepez",
+    "districtSlug": "kepez",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Kepez",
+    "districtSlug": "kepez",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Kepez",
+    "districtSlug": "kepez",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Kepez",
+    "districtSlug": "kepez",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Kepez",
+    "districtSlug": "kepez",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Lara",
+    "districtSlug": "lara",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Lara",
+    "districtSlug": "lara",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Lara",
+    "districtSlug": "lara",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Lara",
+    "districtSlug": "lara",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Lara",
+    "districtSlug": "lara",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Lara",
+    "districtSlug": "lara",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Serik",
+    "districtSlug": "serik",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Serik",
+    "districtSlug": "serik",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Serik",
+    "districtSlug": "serik",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Serik",
+    "districtSlug": "serik",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Serik",
+    "districtSlug": "serik",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Serik",
+    "districtSlug": "serik",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Manavgat",
+    "districtSlug": "manavgat",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Manavgat",
+    "districtSlug": "manavgat",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Manavgat",
+    "districtSlug": "manavgat",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Manavgat",
+    "districtSlug": "manavgat",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Manavgat",
+    "districtSlug": "manavgat",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Antalya",
+    "citySlug": "antalya",
+    "airportName": "Antalya Havalimanı",
+    "airportSlug": "ayt",
+    "districtName": "Manavgat",
+    "districtSlug": "manavgat",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Istanbul Havalimani",
+    "airportSlug": "ist",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Kadikoy",
+    "districtSlug": "kadikoy",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Besiktas",
+    "districtSlug": "besiktas",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sisli",
+    "districtSlug": "sisli",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Sariyer",
+    "districtSlug": "sariyer",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Uskudar",
+    "districtSlug": "uskudar",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Bakirkoy",
+    "districtSlug": "bakirkoy",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Fatih",
+    "districtSlug": "fatih",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Istanbul",
+    "citySlug": "istanbul",
+    "airportName": "Sabiha Gokcen",
+    "airportSlug": "saw",
+    "districtName": "Pendik",
+    "districtSlug": "pendik",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Merkez",
+    "districtSlug": "merkez",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Merkez",
+    "districtSlug": "merkez",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Merkez",
+    "districtSlug": "merkez",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Merkez",
+    "districtSlug": "merkez",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Merkez",
+    "districtSlug": "merkez",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Merkez",
+    "districtSlug": "merkez",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Yalikavak",
+    "districtSlug": "yalikavak",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Yalikavak",
+    "districtSlug": "yalikavak",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Yalikavak",
+    "districtSlug": "yalikavak",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Yalikavak",
+    "districtSlug": "yalikavak",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Yalikavak",
+    "districtSlug": "yalikavak",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Yalikavak",
+    "districtSlug": "yalikavak",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Turgutreis",
+    "districtSlug": "turgutreis",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Turgutreis",
+    "districtSlug": "turgutreis",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Turgutreis",
+    "districtSlug": "turgutreis",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Turgutreis",
+    "districtSlug": "turgutreis",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Turgutreis",
+    "districtSlug": "turgutreis",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Turgutreis",
+    "districtSlug": "turgutreis",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Gumbet",
+    "districtSlug": "gumbet",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Gumbet",
+    "districtSlug": "gumbet",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Gumbet",
+    "districtSlug": "gumbet",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Gumbet",
+    "districtSlug": "gumbet",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Gumbet",
+    "districtSlug": "gumbet",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Gumbet",
+    "districtSlug": "gumbet",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Bitez",
+    "districtSlug": "bitez",
+    "areaName": "merkez",
+    "areaSlug": "merkez"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Bitez",
+    "districtSlug": "bitez",
+    "areaName": "sahil",
+    "areaSlug": "sahil"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Bitez",
+    "districtSlug": "bitez",
+    "areaName": "oteller",
+    "areaSlug": "oteller"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Bitez",
+    "districtSlug": "bitez",
+    "areaName": "marina",
+    "areaSlug": "marina"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Bitez",
+    "districtSlug": "bitez",
+    "areaName": "rezidans",
+    "areaSlug": "rezidans"
+  },
+  {
+    "cityName": "Bodrum",
+    "citySlug": "bodrum",
+    "airportName": "Milas Bodrum Havalimani",
+    "airportSlug": "bjv",
+    "districtName": "Bitez",
+    "districtSlug": "bitez",
+    "areaName": "villa",
+    "areaSlug": "villa"
+  }
+]
