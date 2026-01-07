@@ -10,10 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,18 +22,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: "npm"
 
       - name: Install dependencies
         run: npm install
 
-      # ⚠️ ROUTE GENERATOR KAPALI (lokalde çalıştırdık)
-      # Açmak istersen sadece bu satırı yorumdan çıkarırsın
-      # - name: Generate routes
-      #   run: node scripts/gen.mjs
-
-      - name: Build Eleventy site
-        run: npx eleventy
+      - name: Build site
+        run: npm run build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
