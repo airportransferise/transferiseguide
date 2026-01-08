@@ -4,8 +4,8 @@
   "private": true,
   "description": "Airport transfer SEO guide built with Eleventy",
   "scripts": {
-    "build": "eleventy",
-    "serve": "eleventy --serve"
+    "build": "node node_modules/@11ty/eleventy/cmd.cjs",
+    "serve": "node node_modules/@11ty/eleventy/cmd.cjs --serve"
   },
   "author": "Transferise",
   "license": "MIT",
