@@ -5,8 +5,10 @@ pagination:
   size: 1
   alias: r
 permalink: "/{{ r.citySlug }}/{{ r.airportSlug }}/{{ r.districtSlug }}/{{ r.areaSlug }}/"
-title: "{{ r.cityName }} {{ r.airportName }} {{ r.districtName }} {{ r.areaName }} Airport Transfer"
-description: "Private airport transfer from {{ r.airportName }} to {{ r.districtName }} {{ r.areaName }} in {{ r.cityName }}. Duration, pricing and booking information."
+
+eleventyComputed:
+  title: "{{ r.cityName }} {{ r.airportName }} {{ r.districtName }} {{ r.areaName }} Airport Transfer"
+  description: "Private airport transfer from {{ r.airportName }} to {{ r.districtName }} {{ r.areaName }} in {{ r.cityName }}. Duration, pricing and booking information."
 ---
 
 {% set seed = r.citySlug + r.districtSlug + r.areaSlug %}
@@ -41,10 +43,6 @@ description: "Private airport transfer from {{ r.airportName }} to {{ r.district
 </p>
 
 <h2>Book Your Transfer</h2>
-<p>
-  For a safe and comfortable journey, book your private airport transfer online.
-</p>
-
 <p>
   👉 <a href="https://transferise.com">Book private airport transfer</a>
 </p>
