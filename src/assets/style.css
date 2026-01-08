@@ -45,3 +45,18 @@ footer {
   font-size: 14px;
   opacity: 0.7;
 }
+
+.breadcrumb {
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.breadcrumb a {
+  color: #0a58ca;
+  text-decoration: none;
+}
+
+.breadcrumb span {
+  margin: 0 6px;
+}

@@ -58,5 +58,35 @@
 }
 </script>
 
+{% if r %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ '/' | url }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ r.cityName }}",
+      "item": "{{ '/' | url }}{{ r.citySlug }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ r.districtName }} {{ r.areaName }}",
+      "item": "{{ '/' | url }}{{ r.citySlug }}/{{ r.airportSlug }}/{{ r.districtSlug }}/{{ r.areaSlug }}/"
+    }
+  ]
+}
+</script>
+{% endif %}
+
+
 </body>
 </html>

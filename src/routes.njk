@@ -13,6 +13,19 @@ eleventyComputed:
 
 {% set seed = r.citySlug + r.districtSlug + r.areaSlug %}
 
+<nav class="breadcrumb">
+  <a href="{{ '/' | url }}">Home</a>
+  <span>›</span>
+
+  <a href="{{ '/' | url }}{{ r.citySlug }}/">
+    {{ r.cityName }}
+  </a>
+  <span>›</span>
+
+  <span>{{ r.districtName }} {{ r.areaName }}</span>
+</nav>
+
+
 <h1>{{ r.cityName }} {{ r.airportName }} → {{ r.districtName }} {{ r.areaName }} Airport Transfer</h1>
 
 <p class="lead">
