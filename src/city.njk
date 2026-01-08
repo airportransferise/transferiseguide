@@ -12,14 +12,14 @@ description: "Airport transfer routes and travel information for {{ city.cityNam
 <h1>{{ city.cityName }} Airport Transfer Guide</h1>
 
 <p>
-Browse airport transfer routes by district and area.
+Browse airport transfer routes in {{ city.cityName }}.
 </p>
 
 <ul>
 {% for r in routes %}
   {% if r.citySlug == city.citySlug %}
     <li>
-      <a href="/{{ r.citySlug }}/{{ r.airportSlug }}/{{ r.districtSlug }}/{{ r.areaSlug }}/">
+      <a href="{{ '/' | url }}{{ r.citySlug }}/{{ r.airportSlug }}/{{ r.districtSlug }}/{{ r.areaSlug }}/">
         {{ r.airportName }} → {{ r.districtName }} {{ r.areaName }}
       </a>
     </li>

@@ -1,29 +1,48 @@
 ---
 layout: layout.njk
 title: Airport Transfer Travel Guide
-description: Airport transfer routes, city guides and travel blog.
+description: Professional airport transfer guides, routes and booking information for major destinations.
 ---
 
-<h1>Airport Transfer Travel Guide</h1>
+<section class="hero">
+  <h1>Airport Transfer Travel Guide</h1>
+  <p class="hero-text">
+    Independent guides for private airport transfers, popular routes and travel planning.
+  </p>
+</section>
 
-<p>
-Independent travel guide covering private airport transfers, routes and booking tips.
-</p>
+<section>
+  <h2>City Airport Transfer Guides</h2>
+  <p>
+    Choose your destination city to explore airport transfer routes by district and area.
+  </p>
 
-<h2>City Guides</h2>
-<ul>
-{% for city in cities %}
-  <li>
-    <a href="/{{ city.citySlug }}/">
-      {{ city.cityName }} Airport Transfer Guide
-    </a>
-  </li>
-{% endfor %}
-</ul>
+  <div class="city-grid">
+    {% for city in cities %}
+      <div class="city-card">
+        <h3>{{ city.cityName }}</h3>
+        <p>
+          Airport transfer routes, travel tips and booking information for {{ city.cityName }}.
+        </p>
+        <a class="btn" href="{{ '/' | url }}{{ city.citySlug }}/">
+          View {{ city.cityName }} guide →
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
 
-<h2>Latest Blog Articles</h2>
-<ul>
-{% for post in collections.blog | reverse | slice(0,5) %}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-{% endfor %}
-</ul>
+<section>
+  <h2>From the Blog</h2>
+  <p>
+    Travel advice and airport transfer tips written for real travelers.
+  </p>
+
+  <ul class="blog-list">
+    {% for post in collections.blog | reverse | slice(0,3) %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

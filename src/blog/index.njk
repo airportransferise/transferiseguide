@@ -1,0 +1,23 @@
+---
+layout: layout.njk
+title: Airport Transfer Blog
+description: Airport transfer tips, travel guides and booking advice.
+---
+
+<h1>Airport Transfer Blog</h1>
+
+<p>
+Practical advice, travel tips and in-depth guides about airport transfers and private transportation.
+</p>
+
+<ul class="blog-grid">
+{% for post in collections.blog | reverse %}
+  <li class="blog-card">
+    <h2>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+    </h2>
+    <p>{{ post.data.description }}</p>
+    <a class="read-more" href="{{ post.url }}">Read article →</a>
+  </li>
+{% endfor %}
+</ul>
